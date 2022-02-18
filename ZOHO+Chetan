@@ -1,3 +1,5 @@
+PGM1:
+
 class demo
 {
 public static void main(string[]args)
@@ -11,5 +13,21 @@ system.out.println("C","O","M","E"\n");
 system.out.println("C","O","M","E","W"\n");
 system.out.println("C","O","M","E","W","E"\n");
 system.out.println("C","O","M","E","W","E","L"\n");
+}
+}
+
+PGM2:
+
+class demo
+{
+public static void main(string[]args)
+{
+string s1=new string("W A T E R");
+
+system.out.println("T""\n");
+system.out.println("T","E""\n");
+system.out.println("T","E","R""\n");
+system.out.println("T","E","R","W"\n");
+system.out.println("T","E","R","W","A"\n");
 }
 }
